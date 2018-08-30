@@ -1,0 +1,14 @@
+*.pyc
+show.py
+data/processed/
+data/samples/
+save/
+model/
+log/
+.backup/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+model*/
+
+._*
